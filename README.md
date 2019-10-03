@@ -1,2 +1,2 @@
 # ProjectBoost
-# Simple Project Modeled after Gamedev.tv's udemy course
+# Simple Project Modeled After Gamedev.tv's Udemy Course
